@@ -27,7 +27,8 @@ SECRET_KEY = config("SECRET_KEY")
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    'dhong9.github.io'
+    'dhong9.github.io',
+    'dhong9.pythonanywhere.com'
 ]
 
 CORS_ALLOWED_ORIGINS = [
