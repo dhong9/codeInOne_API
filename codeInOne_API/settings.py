@@ -49,6 +49,7 @@ INSTALLED_APPS = [
     'corsheaders',
     'rest_framework',
     'codeInOne_API.quickstart',
+    'codeInOne_API.codeInOne_auth'
 ]
 
 MIDDLEWARE = [
